@@ -1,0 +1,1532 @@
+body
+{
+	margin: 0;
+}
+
+#turnphone
+{
+	position: relative;
+}
+
+#turnyourphone
+{
+	width: 100%;
+	position: absolute;
+	top: 10%;
+	left: 0%;
+}
+
+#turnachtergrond
+{
+	width: 100%;
+	height: 100%;
+	top: 0%;
+	left: 0%;
+}
+
+#volgende1, #volgende11
+{
+	position: absolute;
+	left: 92%;
+	top: 86%;
+	width: 6%;
+	height: 9.5%;
+}
+
+#js--index
+{
+	position: relative;
+}
+
+#vliegtuig
+{
+	width: 100%;
+}
+
+#js--start
+{
+	position: absolute;
+	left: 49%;
+	top: 75%;
+	width: 70px;
+	height: 83px;
+	cursor: pointer;
+	opacity: 0;
+}
+
+#play
+{
+	width: 10%;
+	height: 25%;
+	top: 70%;
+	left: 48%;
+	position: absolute;
+}
+
+#titel
+{
+	font-size: 3em;
+	font-family: sans-serif, Arial;
+	position: absolute;
+	left: 43%;
+	top: -3%;
+}
+
+#tweedetekst
+{
+	font-size: 1.3em;
+	left: 27%;
+	top: 15%;
+	position: absolute;
+	font-family: sans-serif, Arial;
+}
+
+
+#volgende3
+{
+	position: absolute;
+	left: 92%;
+	top: 81.5%;
+	width: 6%;
+	height: 9.5%;
+}
+
+.next, #next2
+{
+	width: 100%;
+	height: 100%;
+}
+
+#js--uitzwaaien
+{
+	position: relative;
+}
+
+#uitzwaaien1
+{
+	width: 100%;
+	opacity: 0.7;
+}
+
+#uitzwaaien2
+{
+	width: 14%;
+	top: 40%;
+	left: 75%;
+	position: absolute;
+}
+
+#uitzwaaien3
+{
+	width: 20%;
+	left: 0%;
+	top: 30%;
+	position: absolute;
+	transform: rotate(15deg);
+}
+
+#zwarttussen, #weeklater, #jaarlater
+{
+	position: absolute;
+	background-color: black;
+	width: 100%;
+	height: 100%;
+}
+
+#tijd
+{
+	position: absolute;
+	color: white;
+	font-size: 3em;
+	left: 17%;
+	top: 34%;
+	font-family: sans-serif, Arial;
+}
+
+#js--puin
+{
+	position: relative;
+}
+
+#puin
+{
+	width: 100%;
+}
+
+#uitleg
+{
+	width: 80%;
+	height: 18%;
+	position: absolute;
+	left: 10%;
+	top: 42.5%;
+	background-color: white;
+	opacity: 0.9;
+}
+
+#uitlegknuffel
+{
+	font-family: sans-serif, Arial;
+	position: absolute;
+	left: 11.5%;
+	top: 40%;
+	font-size: 1.4em;
+	width: 78%;
+}
+
+#startknuffel
+{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	left: 0%;
+	top: 0%;
+	opacity: 0;
+}
+
+#knuffel
+{
+	width: 3.5%;
+	position: absolute;
+	left: 60%;
+	top: 32%;
+}
+
+#knuffelzoek
+{
+	width: 4%;
+	height: 8%;
+	position: absolute;
+	left: 60%;
+	top: 31%;
+	opacity: 0;
+}
+
+.woonkamer
+{
+	width: 100%;
+	opacity: 0.8;
+	position: relative;
+}
+
+.optelefoon
+{
+	position: absolute;
+	left: 73%;
+	top: 37%;
+	width: 15%;
+}
+
+.woonkamerbellen
+{
+	width: 100%;
+	opacity: 0.3;
+}
+
+#js--telefoon
+{
+	position: relative;
+}
+
+.iphone
+{
+	position: absolute;
+	left: 20%;
+	top: -3%;
+	width: 60%;
+}
+
+#accept
+{
+	position: absolute;
+	left: 53.3%;
+	top: 64.8%;
+	width: 27px;
+	height: 27px;
+	border-radius: 50%;
+	cursor: pointer;
+	opacity: 0;
+}
+
+#decline
+{
+	position: absolute;
+	left: 42.8%;
+	top: 64.8%;
+	width: 27px;
+	height: 27px;
+	border-radius: 50%;
+	cursor: pointer;
+	opacity: 0;
+}
+
+#neemjeop
+{
+	position: absolute;
+	left: 6%;
+	top: 13%;
+	font-family: sans-serif, Arial;
+	font-size: 2em;
+}
+
+#ofniet
+{
+	position: absolute;
+	left: 68%;
+	top: 13%;
+	font-family: sans-serif, Arial;
+	font-size: 2em;
+}
+
+#opnemen
+{
+	position: absolute;
+	left: 38.5%;
+	top: 12%;
+	width: 23.1%;
+	height: 68%;
+}
+
+#bellen
+{
+	position: absolute;
+	left: 38.5%;
+	top: 14%;
+	width: 23%;
+	height: 73%;
+}
+
+#ophangen
+{
+	position: absolute;
+	left: 47.8%;
+	top: 69.8%;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	cursor: pointer;
+	opacity: 0;
+}
+
+#volgendeweek, #volgende6, #volgende8, #volgende12, #volgende10, #volgende13
+{
+	position: absolute;
+	left: 92.5%;
+	top: 87.5%;
+	width: 6%;
+	height: 9.5%;
+}
+
+#weeklatertekst
+{
+	color: white;
+	font-family: Arial;
+	position: absolute;
+	left: 29%;
+	top: 34%;
+	font-size: 3em;
+	opacity: 1;
+}
+
+#jaarlatertekst
+{
+	color: white;
+	font-family: Arial;
+	position: absolute;
+	left: 30.5%;
+	top: 34%;
+	font-size: 3em;
+	opacity: 1;
+}
+
+#vierkant2
+{
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	left: 100px;
+	top: 100px;
+	background-color: black;
+}
+
+#tv
+{
+	position: absolute;
+	width: 77%;
+	top: 1%;
+	left: 10%;
+}
+
+#afstandbediening
+{
+	position: absolute;
+	top: 71%;
+	left: 36%;
+	width: 25%;
+}
+
+#myVideo
+{
+	position: absolute;
+	left: 11%;
+	top: 7%;
+	width: 77%;
+	height: 72%;
+}
+
+#start
+{
+	width: 6%;
+	height: 6%;
+	position: absolute;
+	left: 41%;
+	top: 81%;
+	opacity: 0;
+}
+
+#start2, #start4
+{
+	width: 10%;
+	height: 7%;
+	position: absolute;
+	left: 38%;
+	top: 90%;
+}
+
+#pause2, #pause4
+{
+	width: 10%;
+	height: 7%;
+	position: absolute;
+	left: 50%;
+	top: 90%;
+}
+
+#start3
+{
+	width: 10%;
+	height: 7%;
+	position: absolute;
+	left: 39%;
+	top: 93%;
+}
+
+#pause3
+{
+	width: 10%;
+	height: 7%;
+	position: absolute;
+	left: 51%;
+	top: 93%;
+}
+
+#videoterug, #videomonument
+{
+	width: 100%;
+}
+
+#videoconstructie
+{
+	width: 100%;
+	height: 90%;
+}
+
+#brief
+{
+	position: relative;
+}
+
+#openbrief
+{
+	position: absolute;
+	top: -2%;
+	left: 18%;
+	font-family: sans-serif, Arial;
+	font-size: 1.6em;
+}
+
+#envelop
+{
+	position: absolute;
+	top: 10%;
+	left: 10%;
+	width: 80%;
+	height: 80%;
+}
+
+#briefopenen
+{
+	width: 80%;
+	height: 80%;
+	position: absolute;
+	top: 8%;
+	left: 10%;
+	opacity: 0;
+}
+
+#papier
+{
+	position: absolute;
+	top: 1.3%;
+	left: 20%;
+	height: 90%;
+	width: 60%;
+}
+
+#tekstbrief
+{
+	font-family: Segoe Print;
+	font-size: 1.2em;
+	position: absolute;
+	left: 23%;
+	top: 5.5%;
+	width: 53%;
+	line-height: 28.8px;
+}
+
+#naarpresentatie
+{
+	position: absolute;
+	left: 26%;
+	top: 74%;
+	width: 48%;
+	height: 10%;
+	opacity: 0;
+}
+
+#presentatiegaan
+{
+	position: absolute;
+	left: 28%;
+	top: 73%;
+	font-size: 1em;
+	font-family: sans-serif, Arial;
+	opacity: 0.6;
+}
+
+#achterkant
+{
+	height: 118px;
+	width: 90px;
+	position: absolute;
+	left: 7%;
+	top: 37%;
+	opacity: 0.4;
+	color: white;
+}
+
+#vleugel
+{
+	height: 45px;
+	width: 80px;
+	position: absolute;
+	left: 49%;
+	top: 56%;
+	opacity: 0.4;
+	color: white;
+}
+
+#vleugel2
+{
+	height: 45px;
+	width: 80px;
+	position: absolute;
+	left: 31%;
+	top: 40%;
+	opacity: 0.4;
+	color: white;
+}
+
+#voorkant
+{
+	height: 50px;
+	width: 70px;
+	position: absolute;
+	left: 80%;
+	top: 45%;
+	opacity: 0.4;
+	color: white;
+}
+
+#achterkantfoto
+{
+	position: absolute;
+	left: 3.6%;
+	top: 10%;
+	width: 20%;
+}
+
+#vleugel2foto
+{
+	position: absolute;
+	left: 30%;
+	top: 15%;
+	width: 20%;
+}
+
+#vleugelfoto
+{
+	position: absolute;
+	left: 45%;
+	top: 70%;
+	width: 20%;
+}
+
+#voorkantfoto
+{
+	position: absolute;
+	left: 71%;
+	top: 22%;
+	width: 26%;
+}
+
+#buk
+{
+	background-color: #618293;
+}
+
+#bukraket
+{
+	width: 100%;
+	position: absolute;
+	top: 31%;
+}
+
+#informatie
+{
+	font-family: sans-serif, Arial;
+	font-size: 1.5em;
+	position: absolute;
+	background-color: #618293;
+	top: -5.5%;
+	left: 0%;
+	height: 48%;
+	width: 100%;
+}
+
+#info
+{
+	margin-left: 0.5em;
+	margin-top: 1.2em;
+}
+
+#messages
+{
+	width: 23.2%;
+	position: absolute;
+	left: 38.5%;
+	top: 14%;;
+}
+
+#typebalk
+{
+	width: 23.2%;
+	position: absolute;
+	left: 38.5%;
+	top: 82%;
+}
+
+.vierkant
+{
+	height: 226px;
+	width: 154.3px;
+	background-color: #F8F8F8;
+	position: absolute;
+	left: 38.5%;
+	top: 22%;
+}
+
+.vraag1
+{
+	font-family: sans-serif, Arial;
+	font-size: 0.75em;
+	color: black;
+	position: absolute;
+	left: 5%;
+	top: -13%;
+}
+
+#vraag2
+{
+	font-family: sans-serif, Arial;
+	font-size: 0.75em;
+	color: black;
+	position: absolute;
+	left: 5%;
+	top: -13%;
+}
+
+#vier3
+{
+	width: 101px;
+	height: 40px;
+	position: absolute;
+	left: 39%;
+	top: 59%;
+	background-color: #E5E5EA;
+	border-radius: 5%;
+}
+
+#vier10
+{
+	width: 120px;
+	height: 40px;
+	position: absolute;
+	left: 39%;
+	top: 59%;
+	background-color: #E5E5EA;
+	border-radius: 5%;
+}
+
+#vier7
+{
+	width: 101px;
+	height: 40px;
+	position: absolute;
+	left: 39%;
+	top: 36.5%;
+	background-color: #E5E5EA;
+	border-radius: 5%;
+}
+
+.antwoord1
+{
+	font-family: sans-serif, Arial;
+	font-size: 0.75em;
+	color: black;
+	position: absolute;
+	left: 8%;
+	top: -21%;
+}
+
+#vier4, #vier6, #vier12, #vier13
+{
+	width: 70px;
+	height: 35px;
+	position: absolute;
+	top: 71%;
+	left: 50.5%;
+	background-color: #2A9FFD;
+	border-radius: 5%;
+}
+
+#antw1, #antw3
+{
+	width: 70px;
+	height: 35px;
+	position: absolute;
+	top: 71%;
+	left: 39%;
+	border-radius: 5%;
+	opacity: 0;
+}
+
+#antw2, #antw4
+{
+	width: 70px;
+	height: 35px;
+	position: absolute;
+	top: 71%;
+	left: 50.5%;
+	border-radius: 5%;
+	opacity: 0;
+}
+
+.antwoord2
+{
+	font-family: sans-serif, Arial;
+	font-size: 0.75em;
+	color: black;
+	position: absolute;
+	left: 8%;
+	top: -20%;
+}
+
+#vier5, #vier11
+{
+	width: 70px;
+	height: 35px;
+	position: absolute;
+	top: 71%;
+	left: 39%;
+	background-color: #2A9FFD;
+	border-radius: 5%;
+}
+
+#vier8, #vier9
+{
+	width: 70px;
+	height: 35px;
+	position: absolute;
+	top: 48.5%;
+	left: 50.5%;
+	background-color: #2A9FFD;
+	border-radius: 5%;
+}
+
+.antwoord3
+{
+	font-family: sans-serif, Arial;
+	font-size: 0.75em;
+	color: black;
+	position: absolute;
+	left: 39%;
+	top: -2%;
+}
+
+#antwoord4
+{
+	font-family: sans-serif, Arial;
+	font-size: 0.75em;
+	color: black;
+	position: absolute;
+	left: 13%;
+	top: -2%;
+}
+
+#einde
+{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	background-color: black;
+}
+
+#eindetekst
+{
+	font-size: 2em;
+	position: absolute;
+	font-family: sans-serif, Arial;
+	top: 25%;
+	left: 20%;
+	color: white;
+	width: 80%;
+}
+
+#eindedatum
+{
+	font-size: 1.5em;
+	font-family: sans-serif, Arial;
+	position: absolute;
+	top: 70%;
+	left: 38%;
+	color: white;
+	width: 100%;
+}
+
+#videonamen
+{
+	width: 100%;
+}
+
+@media(min-width: 1200px)
+{
+	#volgende1
+	{
+		width: 5%;
+		height: 8%;
+		top: 76%;
+		left: 86%;
+	}
+
+	#vliegtuig, #uitzwaaien1, #puin, #videoterug, #videomonument, #videoconstructie
+	{
+		width: 88%;
+		margin-left: 6.5%;
+	}
+
+	#bukraket
+	{
+		width: 100%;
+		margin-left: 0%;
+		top: 34.5%;
+	}
+
+	#titel
+	{
+		font-size: 70px;
+		font-family: Arial;
+		left: 44.5%;
+		top: 1%;
+		position: absolute;
+	}
+
+	#tweedetekst
+	{
+		font-size: 30px;
+		font-family: Arial;
+		left: 36.3%;
+		top: 15%;
+		position: absolute;
+	}
+
+	#play
+	{
+		width: 8%;
+		height: 23%;
+		top: 70%;
+		left: 46.2%;
+		position: absolute;
+	}
+
+	#js--start
+	{
+		position: absolute;
+		left: 47.3%;
+		top: 74.3%;
+		width: 95px;
+		height: 113px;
+		cursor: pointer;
+		opacity: 0;
+	}
+
+	#uitzwaaien2
+	{
+		width: 11%;
+		top: 45%;
+		right: 25%;
+		position: absolute;
+	}
+
+	#uitzwaaien3
+	{
+		width: 10%;
+		left: 6.5%;
+		top: 30%;
+		position: absolute;
+		transform: rotate(0deg);
+	}
+
+	#tijd
+	{
+		font-family: sans-serif, Arial;
+		font-size: 5em;
+		position: absolute;
+		left: 28.5%;
+		top: 38%;
+	}
+
+	#uitleg
+	{
+		width: 74%;
+		height: 11.5%;
+		position: absolute;
+		left: 13%;
+		top: 44%;
+		background-color: white;
+	}
+
+	#uitlegknuffel
+	{
+		font-family: sans-serif, Arial;
+		position: absolute;
+		width: 70%;
+		left: 14.4%;
+		top: 42.3%;
+		font-size: 2em;
+	}
+
+	#startknuffel
+	{
+		width: 100%;
+		height: 100%;
+		position: absolute;
+		left: 0%;
+		top: 0%;
+		opacity: 0;
+	}
+
+	#knuffel
+	{
+		width: 2%;
+		position: absolute;
+		left: 60%;
+		top: 32%;
+	}
+
+	#knuffelzoek
+	{
+		width: 3%;
+		height: 7%;
+		position: absolute;
+		left: 59.5%;
+		top: 31%;
+		opacity: 0;
+	}
+
+#volgendeweek, #volgende6, #volgende7, #volgende8, #volgende13
+		{
+			position: absolute;
+			left: 88.7%;
+			top: 88%;
+			width: 5%;
+			height: 10%;
+		}
+
+	#volgende12
+	{
+		position: absolute;
+		left: 92.7%;
+		top: 88%;
+		width: 6%;
+		height: 10%;
+	}
+
+	.woonkamer
+	{
+		width: 84%;
+		opacity: 0.8;
+		position: relative;
+		margin-left: 8%;
+	}
+
+	.optelefoon
+	{
+		position: absolute;
+		left: 71%;
+		top: 35%;
+		width: 14%;
+	}
+
+	.woonkamerbellen
+	{
+		width: 84%;
+		margin-left: 8%;
+		opacity: 0.3;
+	}
+
+	.iphone
+	{
+		position: absolute;
+		left: 25%;
+		top: -0.3%;
+		width: 50%;
+	}
+
+	#opnemen
+	{
+		position: absolute;
+		left: 40.3%;
+		top: 15.5%;
+		width: 19.3%;
+		height: 67%;
+	}
+
+	#neemjeop
+	{
+		position: absolute;
+		left: 16%;
+		top: 13%;
+		font-family: sans-serif, Arial;
+		font-size: 3em;
+	}
+
+	#ofniet
+	{
+		position: absolute;
+		left: 68%;
+		top: 13%;
+		font-family: sans-serif, Arial;
+		font-size: 3em;
+	}
+
+	#accept
+	{
+		position: absolute;
+		left: 52.7%;
+		top: 67.2%;
+		width: 57px;
+		height: 57px;
+		border-radius: 50%;
+		cursor: pointer;
+		opacity: 0;
+	}
+
+	#decline
+	{
+		position: absolute;
+		left: 43.9%;
+		top: 67.2%;
+		width: 57px;
+		height: 57px;
+		border-radius: 50%;
+		cursor: pointer;
+		opacity: 0;
+	}
+
+	#bellen
+	{
+		position: absolute;
+		left: 40.3%;
+		top: 15.7%;
+		width: 19.3%;
+		height: 68%;
+	}
+
+	#ophangen
+	{
+		position: absolute;
+		left: 48.2%;
+		top: 67.5%;
+		width: 62px;
+		height: 82px;
+		border-radius: 50%;
+		cursor: pointer;
+		opacity: 0;
+	}
+
+	#tv
+	{
+		position: absolute;
+		width: 60%;
+		top: 1%;
+		left: 19%;
+	}
+
+	#afstandbediening
+	{
+		position: absolute;
+		top: 72.5%;
+		left: 39%;
+		width: 21%;
+	}
+
+	#start
+	{
+		width: 5%;
+		height: 6%;
+		position: absolute;
+		left: 42.5%;
+		top: 81.5%;
+		opacity: 0;
+	}
+
+	#myVideo
+	{
+		position: absolute;
+		left: 17%;
+		top: 6.5%;
+		width: 66%;
+		height: 64%;
+	}
+
+	#start2, #start4, #start3
+	{
+		width: 8%;
+		height: 5%;
+		position: absolute;
+		left: 38%;
+		top: 92%;
+	}
+
+	#pause2, #pause4, #pause3
+	{
+		width: 8%;
+		height: 5%;
+		position: absolute;
+		left: 50%;
+		top: 92%;
+	}
+
+	#weeklatertekst
+	{
+		color: white;
+		font-family: Arial;
+		position: absolute;
+		left: 36%;
+		top: 38%;
+		font-size: 5em;
+	}
+
+	#jaarlatertekst
+	{
+		color: white;
+		font-family: Arial;
+		position: absolute;
+		left: 37.5%;
+		top: 38%;
+		font-size: 5em;
+	}
+
+	#brief
+	{
+		position: relative;
+	}
+
+	#openbrief
+	{
+		position: absolute;
+		top: 1%;
+		left: 30.5%;
+		font-family: sans-serif, Arial;
+		font-size: 2.5em;
+	}
+
+	#envelop
+	{
+		position: absolute;
+		top: 16%;
+		left: 17%;
+		width: 65%;
+		height: 70%;
+	}
+
+	#briefopenen
+	{
+		width: 80%;
+		height: 80%;
+		position: absolute;
+		top: 8%;
+		left: 10%;
+		opacity: 0;
+	}
+
+	#papier
+	{
+		position: absolute;
+		top: 4%;
+		left: 20%;
+		height: 90%;
+		width: 60%;
+	}
+
+	#tekstbrief
+	{
+		font-family: Segoe Print;
+		font-size: 2em;
+		position: absolute;
+		left: 25%;
+		top: 10.3%;
+		width: 50%;
+		line-height: 48px;
+	}
+
+	#naarpresentatie
+	{
+		position: absolute;
+		left: 26%;
+		top: 73%;
+		width: 48%;
+		height: 10%;
+		opacity: 0;
+	}
+
+	#presentatiegaan
+	{
+		position: absolute;
+		left: 37%;
+		top: 73%;
+		font-size: 1.5em;
+		font-family: sans-serif, Arial;
+		opacity: 0.6;
+	}
+
+	#achterkant
+	{
+		height: 250px;
+		width: 160px;
+		position: absolute;
+		left: 6.5%;
+		top: 39.6%;
+		opacity: 0.4;
+		color: white;
+	}
+
+	#vleugel
+	{
+		height: 70px;
+		width: 120px;
+		position: absolute;
+		left: 49%;
+		top: 60%;
+		opacity: 0.4;
+		color: white;
+	}
+
+	#vleugel2
+	{
+		height: 70px;
+		width: 120px;
+		position: absolute;
+		left: 35%;
+		top: 44%;
+		opacity: 0.4;
+		color: white;
+	}
+
+	#voorkant
+	{
+		height: 90px;
+		width: 110px;
+		position: absolute;
+		left: 81%;
+		top: 49%;
+		opacity: 0.4;
+		color: white;
+	}
+
+	#achterkantfoto
+	{
+		position: absolute;
+		left: 2.5%;
+		top: 12%;
+		width: 20%;
+	}
+
+	#vleugel2foto
+	{
+		position: absolute;
+		left: 30%;
+		top: 17%;
+		width: 20%;
+	}
+
+	#vleugelfoto
+	{
+		position: absolute;
+		left: 43.5%;
+		top: 74%;
+		width: 20%;
+	}
+
+	#voorkantfoto
+	{
+		position: absolute;
+		left: 71%;
+		top: 26%;
+		width: 26%;
+	}
+
+	#buk
+	{
+		background-color: #618293;
+		position: absolute;
+		width: 80%;
+		height: 100%;
+		left: 10%;
+	}
+
+	#informatie
+	{
+		font-family: sans-serif, Arial;
+		font-size: 2.3em;
+		position: absolute;
+		background-color: #618293;
+		top: -3%;
+		left: 1%;
+		height: 48%;
+		width: 95%;
+	}
+
+	#messages
+	{
+		width: 19.4%;
+		position: absolute;
+		left: 40.3%;
+		top: 14%;;
+	}
+
+	#typebalk
+	{
+		width: 19.4%;
+		position: absolute;
+		left: 40.3%;
+		top: 82%;
+	}
+
+	.vierkant
+	{
+		height: 510px;
+		width: 329px;
+		background-color: #F8F8F8;
+		position: absolute;
+		left: 40.2%;
+		top: 21.8%;
+	}
+
+	.vraag1
+	{
+		font-family: sans-serif, Arial;
+		font-size: 1.1em;
+		color: black;
+		position: absolute;
+		left: 5%;
+		top: -7.5%;
+	}
+
+	#vraag2
+	{
+		font-family: sans-serif, Arial;
+		font-size: 1.1em;
+		color: black;
+		position: absolute;
+		left: 5%;
+		top: -9%;
+	}
+
+	#vier3
+	{
+		width: 149px;
+		height: 65px;
+		position: absolute;
+		left: 40.8%;
+		top: 64.5%;
+		background-color: #E5E5EA;
+		border-radius: 5%;
+	}
+
+	#vier10
+	{
+		width: 180px;
+		height: 65px;
+		position: absolute;
+		left: 40.8%;
+		top: 64.4%;
+		background-color: #E5E5EA;
+		border-radius: 5%;
+	}
+
+	#vier7
+	{
+		width: 149px;
+		height: 60px;
+		position: absolute;
+		left: 40.8%;
+		top: 46.5%;
+		background-color: #E5E5EA;
+		border-radius: 5%;
+	}
+
+	.antwoord1
+	{
+		font-family: sans-serif, Arial;
+		font-size: 1.1em;
+		color: black;
+		position: absolute;
+		left: 11.5%;
+		top: 0%;
+	}
+
+	.antwoord2
+	{
+		font-family: sans-serif, Arial;
+		font-size: 1.1em;
+		color: black;
+		position: absolute;
+		left: 13%;
+		top: 0%;
+	}
+
+	#vier4, #vier6, #vier12, #vier13
+	{
+		width: 149px;
+		height: 60px;
+		position: absolute;
+		top: 74%;
+		left: 50.2%;
+		background-color: #2A9FFD;
+		border-radius: 5%;
+	}
+
+	#vier5, #vier11
+	{
+		width: 149px;
+		height: 60px;
+		position: absolute;
+		top: 74%;
+		left: 40.8%;
+		background-color: #2A9FFD;
+		border-radius: 5%;
+	}
+
+	#antw1, #antw3
+	{
+		width: 149px;
+		height: 60px;
+		position: absolute;
+		top: 74%;
+		left: 40.8%;
+		border-radius: 5%;
+		opacity: 0;
+	}
+
+	#antw2, #antw4
+	{
+		width: 149px;
+		height: 60px;
+		position: absolute;
+		top: 74%;
+		left: 50.2%;
+		border-radius: 5%;
+		opacity: 0;
+	}
+
+	#vier8, #vier9
+	{
+		width: 149px;
+		height: 60px;
+		position: absolute;
+		top: 55.4%;
+		left: 50.2%;
+		background-color: #2A9FFD;
+		border-radius: 5%;
+	}
+
+	.antwoord3
+	{
+		font-family: sans-serif, Arial;
+		font-size: 1.1em;
+		color: black;
+		position: absolute;
+		left: 41%;
+		top: 1%;
+	}
+
+	#antwoord4
+	{
+		font-family: sans-serif, Arial;
+		font-size: 1.1em;
+		color: black;
+		position: absolute;
+		left: 20%;
+		top: 1%;
+	}
+
+	#einde
+	{
+		width: 88%;
+		height: 100%;
+		left: 6.1%;
+		position: absolute;
+		background-color: black;
+	}
+
+	#eindetekst
+	{
+		font-size: 3.5em;
+		position: absolute;
+		font-family: sans-serif, Arial;
+		top: 23%;
+		left: 26.2%;
+		color: white;
+		width: 60%;
+	}
+
+	#eindedatum
+	{
+		font-size: 3em;
+		font-family: sans-serif, Arial;
+		position: absolute;
+		top: 70%;
+		left: 40.2%;
+		color: white;
+		width: 100%;
+	}
+
+	#videonamen
+	{
+		width: 88%;
+		position: absolute;
+		left: 6.5%;
+	}
+}
